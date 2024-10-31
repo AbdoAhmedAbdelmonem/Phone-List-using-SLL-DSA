@@ -122,11 +122,4 @@ public class PhoneList {
         System.out.println("1)-Insert A Contact Name\n2)-Print Menu\n3)-Search Menu\n4)-Delete Menu\nAny Other Button For Exit");
         System.out.println();
     }
-
-    public void sort(){
-        ContactNode current = head;
-
-
-    }
-
 }
